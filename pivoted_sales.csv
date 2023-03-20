@@ -1,0 +1,16 @@
+,,,sum,sum
+,,,Price,Quantity
+Rep,Manager,Product,,
+Cedric Moss,Fred Anderson,CPU,95000,3
+Cedric Moss,Fred Anderson,Maintenance,5000,1
+Cedric Moss,Fred Anderson,Software,10000,1
+Craig Booker,Debra Henley,CPU,65000,2
+Craig Booker,Debra Henley,Maintenance,5000,2
+Craig Booker,Debra Henley,Software,10000,1
+Daniel Hilton,Debra Henley,CPU,105000,4
+Daniel Hilton,Debra Henley,Software,10000,1
+John Smith,Debra Henley,CPU,35000,1
+John Smith,Debra Henley,Maintenance,5000,2
+Wendy Yule,Fred Anderson,CPU,165000,7
+Wendy Yule,Fred Anderson,Maintenance,7000,3
+Wendy Yule,Fred Anderson,Monitor,5000,2
